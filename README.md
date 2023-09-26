@@ -1,3 +1,3 @@
 - 👋 Hi, my name is Hami Ibriyamov
-- 👀 I’m interested in powerlifting and programming
+- 👀 I’m interested in powerlifting and coding
 - 📫 How to reach me: hamop3108@gmail.com
