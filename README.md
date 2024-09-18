@@ -1,3 +1,5 @@
-- 👋 Hi, my name is Hami Ibriyamov
-- 👀 I’m interested in writing code and books, as well as lifting heavy weights
-- 📫 How to reach me: ibriyamovhami@gmail.com
+- 👋 Hi, I'm Hami Ibriyamov
+- 🌍 Based in Sofia, Bulgaria
+- 💻 .NET Developer with Web and Machine Learning Focus | Ethical Hacker
+- 💬 How to reach me: [Gmail](ibriyamovhami@gmail.com) OR [LinkedIn](https://www.long-url-here.com)
+- 🚀 Top Projects: [BCCS]() 
