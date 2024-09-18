@@ -2,4 +2,4 @@
 - 🌍 Based in Sofia, Bulgaria
 - 💻 .NET Developer with Web and Machine Learning Focus | Ethical Hacker
 - 💬 How to reach me: [Gmail](ibriyamovhami@gmail.com) OR [LinkedIn](https://www.long-url-here.com)
-- 🚀 Top Projects: [BCCS](https://github.com/hamii31/BreastCancerClassificationMLM), [Fitness Website](https://github.com/hamii31/LiftingDomeVS), [Mobile Application]()
+- 🚀 Top Projects: [BCCS](https://github.com/hamii31/BreastCancerClassificationMLM), [Fitness Website](https://github.com/hamii31/LiftingDomeVS)
