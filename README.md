@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Hami Ibriyamov, [4Log2(64)](24_years_old)
 - 🌍 Based in Sofia, Bulgaria
-- 💻 Programming Skills: ASP.NET, .NET MAUI, ML.NET | Programming Languages: C#, JavaScript, C, Python | Ethical Hacking Skills: Reconnaissance, Vulnerability Assessment, Exploitation
+- 💻 **Programming Skills:** ASP.NET, .NET MAUI, ML.NET | **Programming Languages:** C#, JavaScript, C, Python | **Ethical Hacking Skills:** Reconnaissance, Vulnerability Assessment, Exploitation
 - 💡 Goals: Become one of the best. 
 - 💬 How to reach me: [Gmail](ibriyamovhami@gmail.com), [LinkedIn](https://www.long-url-here.com)
 - 🚀 Top Projects: [BCCS](https://github.com/hamii31/BreastCancerClassificationMLM), [Fitness Website](https://github.com/hamii31/LiftingDomeVS)
