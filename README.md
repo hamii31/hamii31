@@ -1,5 +1,5 @@
-- 👋 Hi, I'm Hami Ibriyamov
+- 👋 Hi, I'm Hami Ibriyamov, [4Log2(64)](24) years old
 - 🌍 Based in Sofia, Bulgaria
 - 💻 .NET Developer with Web and Machine Learning Focus | Ethical Hacker
 - 💬 How to reach me: [Gmail](ibriyamovhami@gmail.com) OR [LinkedIn](https://www.long-url-here.com)
-- 🚀 Top Projects: [BCCS]() 
+- 🚀 Top Projects: [BCCS](https://github.com/hamii31/BreastCancerClassificationMLM), [Fitness Website]()
