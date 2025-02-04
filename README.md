@@ -5,7 +5,7 @@
 - 💡 Goals: Develop useful machine learning models and improve my ethical hacking skills, contribute to open-source projects, earn certifications and develop projects that prove my skill, learn more languages and frameworks
 - 💬 How to reach me: [ibriyamovhami@gmail.com](https://mail.google.com/mail/u/ibriyamovhami@gmail.com/#compose), [LinkedIn](https://www.linkedin.com/in/hami-ibriyamov-727146268/)
 - 🚀 Top Projects:
-  - [PneumoniaCNN](https://github.com/hamii31/Stanford-University-ML-Specialization/blob/main/Advanced%20Learning%20Algorithms/Week%202/Personal%20Projects/PneumoniaCNN.py)
+  - [Pneumonia X-ray Classification CNN](https://github.com/hamii31/Stanford-University-ML-Specialization/blob/main/Advanced%20Learning%20Algorithms/Week%202/Personal%20Projects/PneumoniaCNN.py)
   - [Phishing Detecting Neural Network](https://github.com/hamii31/Stanford-University-ML-Specialization/blob/main/Advanced%20Learning%20Algorithms/Week%201/Personal%20Projects/PhishingDetectionMultilayeredPeceptron.py)
   - [Neural Network For Breast Tumor Classification](https://github.com/hamii31/Stanford-University-ML-Specialization/blob/main/Advanced%20Learning%20Algorithms/Week%201/Personal%20Projects/BreastCancerMultilayerPerceptronClassification.py)
   - [Lung Cancer Identification](https://github.com/hamii31/Stanford-University-ML-Specialization/blob/main/Supervised%20Machine%20Learning/Week%203/Personal%20Projects/LungCancerIdentification.py)
