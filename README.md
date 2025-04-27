@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Hami Ibriyamov, [4Log2(64)](24_years_old)
 - 🌍 Based in Sofia, Bulgaria
-- 💻 **Programming Skills:** AI Development, Software Development, Web Development | **Tech Stack:** .NET, ASP.NET, ML.NET, C#, Python, JavaScript, C
+- 💻 **Programming Skills:** AI Development, Software Development, Web Development | **Tech Stack:** C#, Python
 - 🔒 **Cyber Security Skills:** Web and Network Reconnaissance, Vulnerability Assessment, System and Network Exploitation | **Tech Stack:** Kali, Nmap, Wireshark, Burp Suite, Metasploit
 - 💡 Goals: Develop useful machine learning models and improve my ethical hacking skills, contribute to open-source projects, earn certifications and develop projects that prove my skill, learn more languages and frameworks
 - 💬 How to reach me: [ibriyamovhami@gmail.com](https://mail.google.com/mail/u/ibriyamovhami@gmail.com/#compose), [LinkedIn](https://www.linkedin.com/in/hami-ibriyamov-727146268/)
