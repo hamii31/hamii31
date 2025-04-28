@@ -5,7 +5,6 @@
 - 💡 Goals: Develop useful machine learning models and improve my ethical hacking skills, contribute to open-source projects, earn certifications and develop projects that prove my skill, learn more languages and frameworks
 - 💬 How to reach me: [ibriyamovhami@gmail.com](https://mail.google.com/mail/u/ibriyamovhami@gmail.com/#compose), [LinkedIn](https://www.linkedin.com/in/hami-ibriyamov-727146268/)
 - 🚀 Top Projects:
-  - [AI Medic](https://github.com/hamii31/Medisage)
   - [Ensemble Model for Pneumonia Classification (Random Forest + CNN = Combined Accuracy: 95.5%)](https://github.com/hamii31/Stanford-University-ML-Specialization/blob/main/Advanced%20Learning%20Algorithms/Week%204/Personal%20Projects/Ensemble%20Model%20for%20Pneumonia%20Classification.py)
   - [CNN for Pneumonia Classification](https://github.com/hamii31/Stanford-University-ML-Specialization/blob/main/Advanced%20Learning%20Algorithms/Week%202/Personal%20Projects/PneumoniaCNN.py)
   - [Neural Network for Phishing Detection](https://github.com/hamii31/Stanford-University-ML-Specialization/blob/main/Advanced%20Learning%20Algorithms/Week%201/Personal%20Projects/PhishingDetectionMultilayeredPeceptron.py)
