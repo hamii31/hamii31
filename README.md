@@ -1,14 +1,36 @@
-- 👋 Hi, I'm Hami Ibriyamov, [4Log2(64)](24_years_old)
-- 🌍 Based in Sofia, Bulgaria
-- 💻 **Programming Skills:** AI Development, Software Development | **Tech Stack:** C#, Python, Visual Studio, Streamlit, Tensorflow, Keras, Scikit-learn, Matplotlib, Pandas
-- 🔒 **Cyber Security Skills:** Web and Network Reconnaissance, Vulnerability Assessment, System and Network Exploitation | **Tech Stack:** Kali, Nmap, Wireshark, Burp Suite, Metasploit
-- 🧠 **WordPress Admin, SEO and Cybersecurity Skills:** Site Administration, SEO Optimization, Database Management, CMS Management, Plugin & Update Handling, Performance Tuning, Custom Page Building, Access Control, Web Reconnaissance, Vulnerability Assessment | **Tech Stack:** WordPress, Yoast SEO, Code Snippets, phpMyAdmin, WP Scan
-- 💡 **Goals:** Develop useful machine learning models and improve my ethical hacking skills in order to bring a real change in the world.
-- 💬 **How to reach me:** [ibriyamovhami@gmail.com](https://mail.google.com/mail/u/ibriyamovhami@gmail.com/#compose), [LinkedIn](https://www.linkedin.com/in/hami-ibriyamov-727146268/)
-- 🚀 **Top Projects:**
-- [AI Physician - Deployed Web App that hosts my Machine Learning Models and Neural Networks (Diabetes Classification with Random Forest, Thyroid Disease Multiclass Classification, PCOS Classification with XGBoost, Pneumonia X-ray Classification with Convolutioal Neural Network and more to come)](https://github.com/hamii31/ai_medic)  
-- [Ensemble Model for Pneumonia Classification (Random Forest + CNN = Combined Accuracy: 95.5%)](https://github.com/hamii31/Stanford-University-ML-Specialization/blob/main/Advanced%20Learning%20Algorithms/Week%204/Personal%20Projects/Ensemble%20Model%20for%20Pneumonia%20Classification.py)
-- [Neural Network for Phishing Detection](https://github.com/hamii31/Stanford-University-ML-Specialization/blob/main/Advanced%20Learning%20Algorithms/Week%201/Personal%20Projects/PhishingDetectionMultilayeredPeceptron.py) | [Neural Network For Breast Tumor Classification](https://github.com/hamii31/Stanford-University-ML-Specialization/blob/main/Advanced%20Learning%20Algorithms/Week%201/Personal%20Projects/BreastCancerMultilayerPerceptronClassification.py)
-- [Lung Cancer Identification](https://github.com/hamii31/Stanford-University-ML-Specialization/blob/main/Supervised%20Machine%20Learning/Week%203/Personal%20Projects/LungCancerIdentification.py)
-- [Fitness Website](https://github.com/hamii31/LiftingDomeVS)
-- [SharpSuit](https://github.com/hamii31/SharpSuit)
+👋 Hi, I'm Hami Ibriyamov, [4Log2(64)](24_years_old)
+
+🌍 Based in Sofia, Bulgaria
+
+💻 **Programming & AI Skills**
+**AI & Machine Learning:** Model development, evaluation and deployment | **Frameworks:** TensorFlow, Keras, Scikit-learn, Pandas, Matplotlib, Streamlit
+**Programming & Dev Tools:** Python, C#, Visual Studio, Docker, MSSQL
+
+🛡️ **Cybersecurity Skills**
+Web & network reconnaissance, vulnerability assessment, system/network exploitation
+**Tools:** Kali Linux, Nmap, Wireshark, Burp Suite, Metasploit
+
+🌐 **WordPress, SEO & Web Security**
+Site administration, SEO optimization, database & CMS management, plugin updates, performance tuning, access control, web reconnaissance
+**Tools:** WordPress, Yoast SEO, Code Snippets, phpMyAdmin, WPScan
+
+🎯 **Goals**
+To develop impactful machine learning models and enhance my ethical hacking expertise to drive real-world change.
+
+💬 **How to reach me:** [ibriyamovhami@gmail.com](https://mail.google.com/mail/u/ibriyamovhami@gmail.com/#compose), [LinkedIn](https://www.linkedin.com/in/hami-ibriyamov-727146268/)
+
+🚀 **Highlight Projects:**
+[AI Physician](https://github.com/hamii31/ai_medic) - Web app hosting ML/NN models:
+  - Diabetes (Random Forest), Thyroid (Multiclass), PCOS (XGBoost), Pneumonia X-ray (CNN), and more
+
+[Ensemble Pneumonia Classifier](https://github.com/hamii31/Stanford-University-ML-Specialization/blob/main/Advanced%20Learning%20Algorithms/Week%204/Personal%20Projects/Ensemble%20Model%20for%20Pneumonia%20Classification.py) - Combined CNN + Random Forest (95.5% accuracy)
+
+Neural Networks for:
+  - [Phishing Detection](https://github.com/hamii31/Stanford-University-ML-Specialization/blob/main/Advanced%20Learning%20Algorithms/Week%201/Personal%20Projects/PhishingDetectionMultilayeredPeceptron.py)
+  - [Breast Tumor Classification](https://github.com/hamii31/Stanford-University-ML-Specialization/blob/main/Advanced%20Learning%20Algorithms/Week%201/Personal%20Projects/BreastCancerMultilayerPerceptronClassification.py)
+
+[Lung Cancer Identifier](https://github.com/hamii31/Stanford-University-ML-Specialization/blob/main/Supervised%20Machine%20Learning/Week%203/Personal%20Projects/LungCancerIdentification.py)
+
+[Capstone SoftUni's Web Development with C# Project](https://github.com/hamii31/LiftingDomeVS)
+
+[Capstone Harvard's CS50x Project](https://github.com/hamii31/sharpxss)
