@@ -3,9 +3,9 @@
 - 💻 **Programming Skills:** AI Development, Software Development | **Tech Stack:** C#, Python
 - 🔒 **Cyber Security Skills:** Web and Network Reconnaissance, Vulnerability Assessment, System and Network Exploitation | **Tech Stack:** Kali, Nmap, Wireshark, Burp Suite, Metasploit
 - 🧠 **WordPress Admin & SEO Skills:** Site Administration, SEO Optimization, Database Management, Plugin & Update Handling, Performance Tuning, Custom Page Building, Access Control | **Tech Stack:** WordPress, Yoast SEO, Code Snippets, phpMyAdmin
-- 💡 Goals: Develop useful machine learning models and improve my ethical hacking skills in order to bring a real change in the world.
-- 💬 How to reach me: [ibriyamovhami@gmail.com](https://mail.google.com/mail/u/ibriyamovhami@gmail.com/#compose), [LinkedIn](https://www.linkedin.com/in/hami-ibriyamov-727146268/)
-- 🚀 Top Projects:
+- 💡 **Goals:** Develop useful machine learning models and improve my ethical hacking skills in order to bring a real change in the world.
+- 💬 **How to reach me:** [ibriyamovhami@gmail.com](https://mail.google.com/mail/u/ibriyamovhami@gmail.com/#compose), [LinkedIn](https://www.linkedin.com/in/hami-ibriyamov-727146268/)
+- 🚀 **Top Projects:**
   - [AI Physician - Deployed Web App](https://github.com/hamii31/ai_medic) 
   - [Ensemble Model for Pneumonia Classification (Random Forest + CNN = Combined Accuracy: 95.5%)](https://github.com/hamii31/Stanford-University-ML-Specialization/blob/main/Advanced%20Learning%20Algorithms/Week%204/Personal%20Projects/Ensemble%20Model%20for%20Pneumonia%20Classification.py)
   - [CNN for Pneumonia Classification](https://github.com/hamii31/Stanford-University-ML-Specialization/blob/main/Advanced%20Learning%20Algorithms/Week%202/Personal%20Projects/PneumoniaCNN.py)
