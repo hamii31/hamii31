@@ -1,4 +1,4 @@
-👋 Hi, I'm Hami Ibriyamov, [4Log2(64)](24_years_old)
+👋 Hi, I'm Hami Ibriyamov, [4Log2(64)](24_years_old) years old
 
 🌍 Based in Sofia, Bulgaria
 
