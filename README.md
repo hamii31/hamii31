@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Hami Ibriyamov, [4Log2(64)](24_years_old)
 - 🌍 Based in Sofia, Bulgaria
-- 💻 **Programming Skills:** AI Development, Software Development | **Tech Stack:** C#, Python
+- 💻 **Programming Skills:** AI Development, Software Development | **Tech Stack:** C#, Python, Visual Studio, Streamlit, Tensorflow, Keras, Scikit-learn, Matplotlib, Pandas
 - 🔒 **Cyber Security Skills:** Web and Network Reconnaissance, Vulnerability Assessment, System and Network Exploitation | **Tech Stack:** Kali, Nmap, Wireshark, Burp Suite, Metasploit
 - 🧠 **WordPress Admin, SEO and Cybersecurity Skills:** Site Administration, SEO Optimization, Database Management, CMS Management, Plugin & Update Handling, Performance Tuning, Custom Page Building, Access Control, Web Reconnaissance, Vulnerability Assessment | **Tech Stack:** WordPress, Yoast SEO, Code Snippets, phpMyAdmin, WP Scan
 - 💡 **Goals:** Develop useful machine learning models and improve my ethical hacking skills in order to bring a real change in the world.
