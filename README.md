@@ -28,14 +28,13 @@ To develop impactful machine learning models and enhance my ethical hacking expe
   - Diabetes (Random Forest), Thyroid (Multiclass), PCOS (XGBoost), Pneumonia X-ray (CNN), and more
 
 
-Neural Networks for:
+Neural Networks:
   - [Phishing Detection](https://github.com/hamii31/Stanford-University-ML-Specialization/blob/main/Advanced%20Learning%20Algorithms/Week%201/Personal%20Projects/PhishingDetectionMultilayeredPeceptron.py)
   - [Breast Tumor Classification](https://github.com/hamii31/Stanford-University-ML-Specialization/blob/main/Advanced%20Learning%20Algorithms/Week%201/Personal%20Projects/BreastCancerMultilayerPerceptronClassification.py)
-
-
-Classifiers:
   - [Ensemble Pneumonia Classifier](https://github.com/hamii31/Stanford-University-ML-Specialization/blob/main/Advanced%20Learning%20Algorithms/Week%204/Personal%20Projects/Ensemble%20Model%20for%20Pneumonia%20Classification.py) - Combined CNN + Random Forest (95.5% accuracy)
-  - [Lung Cancer Classifier](https://github.com/hamii31/Stanford-University-ML-Specialization/blob/main/Supervised%20Machine%20Learning/Week%203/Personal%20Projects/LungCancerIdentification.py)
+
+
+[Lung Cancer Classifier](https://github.com/hamii31/Stanford-University-ML-Specialization/blob/main/Supervised%20Machine%20Learning/Week%203/Personal%20Projects/LungCancerIdentification.py) - Logistic Regression for Lung Cancer Classification  
 
 
 [Sharpxss](https://github.com/hamii31/sharpxss) - Capstone project for Harvard University's CS50x
