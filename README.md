@@ -23,6 +23,7 @@ To develop impactful machine learning models and enhance my ethical hacking expe
 💬 **How to reach me:** [ibriyamovhami@gmail.com](https://mail.google.com/mail/u/ibriyamovhami@gmail.com/#compose), [LinkedIn](https://www.linkedin.com/in/hami-ibriyamov-727146268/)
 
 🚀 **Highlight Projects:**
+
 [AI Physician](https://github.com/hamii31/ai_medic) - Web app hosting ML/NN models:
   - Diabetes (Random Forest), Thyroid (Multiclass), PCOS (XGBoost), Pneumonia X-ray (CNN), and more
 
