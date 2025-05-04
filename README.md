@@ -23,14 +23,15 @@ To develop impactful machine learning models and enhance my ethical hacking expe
 [AI Physician](https://github.com/hamii31/ai_medic) - Web app hosting ML/NN models:
   - Diabetes (Random Forest), Thyroid (Multiclass), PCOS (XGBoost), Pneumonia X-ray (CNN), and more
 
-[Ensemble Pneumonia Classifier](https://github.com/hamii31/Stanford-University-ML-Specialization/blob/main/Advanced%20Learning%20Algorithms/Week%204/Personal%20Projects/Ensemble%20Model%20for%20Pneumonia%20Classification.py) - Combined CNN + Random Forest (95.5% accuracy)
-
 Neural Networks for:
   - [Phishing Detection](https://github.com/hamii31/Stanford-University-ML-Specialization/blob/main/Advanced%20Learning%20Algorithms/Week%201/Personal%20Projects/PhishingDetectionMultilayeredPeceptron.py)
   - [Breast Tumor Classification](https://github.com/hamii31/Stanford-University-ML-Specialization/blob/main/Advanced%20Learning%20Algorithms/Week%201/Personal%20Projects/BreastCancerMultilayerPerceptronClassification.py)
 
-[Lung Cancer Identifier](https://github.com/hamii31/Stanford-University-ML-Specialization/blob/main/Supervised%20Machine%20Learning/Week%203/Personal%20Projects/LungCancerIdentification.py)
+Classifiers:
+  - [Ensemble Pneumonia Classifier](https://github.com/hamii31/Stanford-University-ML-Specialization/blob/main/Advanced%20Learning%20Algorithms/Week%204/Personal%20Projects/Ensemble%20Model%20for%20Pneumonia%20Classification.py) - Combined CNN + Random Forest (95.5% accuracy)
+  - [Lung Cancer Classifier](https://github.com/hamii31/Stanford-University-ML-Specialization/blob/main/Supervised%20Machine%20Learning/Week%203/Personal%20Projects/LungCancerIdentification.py)
 
-[Capstone SoftUni's Web Development with C# Project](https://github.com/hamii31/LiftingDomeVS)
+[Sharpxss](https://github.com/hamii31/sharpxss) - Capstone project for Harvard University's CS50x
 
-[Capstone Harvard's CS50x Project](https://github.com/hamii31/sharpxss)
+[Lifting Dome](https://github.com/hamii31/LiftingDomeVS) - Capstone project for SoftUni's Web Development with C# path. 
+
