@@ -4,14 +4,17 @@
 
 💻 **Programming & AI Skills**
 **AI & Machine Learning:** Model development, evaluation and deployment | **Frameworks:** TensorFlow, Keras, Scikit-learn, Pandas, Matplotlib, Streamlit
+
 **Programming & Dev Tools:** Python, C#, Visual Studio, Docker, MSSQL
 
 🛡️ **Cybersecurity Skills**
 Web & network reconnaissance, vulnerability assessment, system/network exploitation
+
 **Tools:** Kali Linux, Nmap, Wireshark, Burp Suite, Metasploit
 
 🌐 **WordPress, SEO & Web Security**
 Site administration, SEO optimization, database & CMS management, plugin updates, performance tuning, access control, web reconnaissance
+
 **Tools:** WordPress, Yoast SEO, Code Snippets, phpMyAdmin, WPScan
 
 🎯 **Goals**
