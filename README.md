@@ -36,9 +36,7 @@ To develop impactful machine learning models and enhance my ethical hacking expe
 
 🚀 **Highlight Projects:**
 
-[AI Physician](https://github.com/hamii31/ai_medic) - Web app hosting ML/NN models:
-  - Diabetes (Random Forest), Thyroid (Multiclass), PCOS (XGBoost), Pneumonia X-ray (CNN), and more
-
+[AIMAIC](https://github.com/hamii31/ai_medic) - A web application with an NLP for basic symptom classification and CNNs for image classification, hosted on Streamlit Cloud. 
 
 Neural Networks:
   - [Phishing Detection](https://github.com/hamii31/Stanford-University-ML-Specialization/blob/main/Advanced%20Learning%20Algorithms/Week%201/Personal%20Projects/PhishingDetectionMultilayeredPeceptron.py)
