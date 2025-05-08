@@ -5,7 +5,7 @@
 
 💻 **Programming & AI Skills**
 
-**AI & Machine Learning:** Model development, evaluation and deployment | **Frameworks:** TensorFlow, Keras, Scikit-learn, Pandas, Matplotlib, Streamlit
+**AI & Machine Learning:** Model development, evaluation and deployment | **Frameworks:** TensorFlow, Keras, Scikit-learn, Pandas, Matplotlib
 
 **Programming & Dev Tools:** Python, C#, Visual Studio, Docker, MSSQL
 
