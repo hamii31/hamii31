@@ -32,23 +32,3 @@ To develop impactful machine learning models and enhance my ethical hacking expe
 💬 **How to reach me:** 
 
 [ibriyamovhami@gmail.com](https://mail.google.com/mail/u/ibriyamovhami@gmail.com/#compose), [LinkedIn](https://www.linkedin.com/in/hami-ibriyamov-727146268/)
-
-
-🚀 **Highlight Projects:**
-
-[AIMAIC](https://github.com/hamii31/ai_medic) - A web application with an NLP for basic symptom classification and CNNs for image classification, hosted on Streamlit Cloud. 
-
-Neural Networks:
-  - [Phishing Detection](https://github.com/hamii31/Stanford-University-ML-Specialization/blob/main/Advanced%20Learning%20Algorithms/Week%201/Personal%20Projects/PhishingDetectionMultilayeredPeceptron.py)
-  - [Breast Tumor Classification](https://github.com/hamii31/Stanford-University-ML-Specialization/blob/main/Advanced%20Learning%20Algorithms/Week%201/Personal%20Projects/BreastCancerMultilayerPerceptronClassification.py)
-  - [Ensemble Pneumonia Classifier](https://github.com/hamii31/Stanford-University-ML-Specialization/blob/main/Advanced%20Learning%20Algorithms/Week%204/Personal%20Projects/Ensemble%20Model%20for%20Pneumonia%20Classification.py) - Combined CNN + Random Forest (95.5% accuracy)
-
-
-[Lung Cancer Classifier](https://github.com/hamii31/Stanford-University-ML-Specialization/blob/main/Supervised%20Machine%20Learning/Week%203/Personal%20Projects/LungCancerIdentification.py) - Logistic Regression for Lung Cancer Classification  
-
-
-[Sharpxss](https://github.com/hamii31/sharpxss) - Capstone project for Harvard University's CS50x
-
-
-[Lifting Dome](https://github.com/hamii31/LiftingDomeVS) - Capstone project for SoftUni's Web Development with C# path. 
-
