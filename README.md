@@ -1,13 +1,16 @@
 ## Hi, I'm Hami
 
-Independent researcher working at the intersection of computational neuroscience,
-neuroendocrinology, and reinforcement learning. Based in Belgium.
+Independent researcher working at the intersection of neuroendocrinology and machine learning. 
+Based in Belgium.
 
-### Current focus
-- Computational modeling of HPA axis dynamics and allostatic learning
-- Reinforcement learning approaches to computational psychiatry
-- Biophysically grounded neural simulations (Hodgkin-Huxley and extensions)
+### Current focus and interests
+- Neuron modeling, neural structures modeling, organized neural systems modeling
+- AI Cybersecurity approaches to Network Security and AI Security
+- Systems programming
 
 ### Background
-- BSc AI and Machine Learning Engineering, Amsterdam Tech
-- Professional: Software Engineer, Ethical Hacker, Cybersecurity Specialist
+- Research Scholar at RIIS 2.0
+- Student Member of IET
+- Member of FENS through BSN
+- Ongoing BSc in AI and MLE
+- Software Developer and Cybersecurity Specialist
