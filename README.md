@@ -4,9 +4,11 @@ Independent researcher working at the intersection of neuroendocrinology and mac
 Based in Belgium.
 
 ### Current focus and interests
-- Neuron modeling, neural structures modeling, organized neural systems modeling
-- AI Cybersecurity approaches to Network Security and AI Security
+- Applied Computer Science in Neuroendocrinology
+- Applied Computer Science in Telecommunication
+- Applied Computer Science in Cybersecurity
 - Systems programming
+- Programming Language Research
 
 ### Background
 - Research Scholar at RIIS 2.0
