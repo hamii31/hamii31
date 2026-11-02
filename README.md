@@ -12,5 +12,5 @@ Based in Belgium.
 - Research Scholar at RIIS 2.0
 - Student Member of IET
 - Member of FENS through BSN
-- Ongoing MSc in Computer Science
+- Postgraduate Student in Computer Science
 - Certified Software Developer and Cybersecurity Specialist
